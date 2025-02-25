@@ -3,7 +3,7 @@
 
 I am pursuing my Bachelor Degree at FH St. Pölten in the Studyprogram Creative Computing. Besides that I'm always open to start a new side project, learn something new or grab a drink. Have a look at my pinned projects while you are here!
 
-- 🌱 I’m currently learning **C#, Unity & Jetpack Compose**
+- 🌱 I’m currently learning **C#, Unity & Blender**
 - 📫 You can reach me at **j.huber1@outlook.com**
 ## :hammer_and_wrench: Languages and Tools :
 ### Technologies:
